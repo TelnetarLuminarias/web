@@ -1,0 +1,5 @@
+_project.xml
+_classpath.xml
+*.class
+bin
+target
